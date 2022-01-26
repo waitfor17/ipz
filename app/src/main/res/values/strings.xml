@@ -1,0 +1,29 @@
+﻿<resources>
+    <string name="app_name">IPZ_Smirnov</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Смирнов Николай Николаевич</string>
+    <string name="nav_header_subtitle">ИВТ–М–1–Д–2020–1</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Обо мне</string>
+    <string name="menu_gallery">Обучение</string>
+    <string name="menu_slideshow">Портфолио</string>
+    <string name="about_me">Меня зовут Николай. Я обучаюсь на первом курсе магистратуры РГСУ. Это приложение - ИПЗ по дисциплине Программирование мобильных устройств.</string>
+    <string name="text_portfolio">С моим портфолио можно ознакомиться на сайте университета.</string>
+        <string name="send_tel">Со мной можно связаться по номеру телефона +71111111111</string>
+    <string name="text_open_link">Открыть портфолио</string>
+
+    <string-array name="study_names">
+        <item>Лицей: Класс информатики и физики</item>
+        <item>РГСУ: Программная инженерия(бакалавр)</item>
+        <item>РГСУ: Информатика и вычислительная техника(магистратура)</item>
+    </string-array>
+
+    <string-array name="study_years">
+        <item>2016 год</item>
+        <item>2020 год</item>
+        <item>С 2020 года по настоящее время</item>
+    </string-array>
+</resources>
